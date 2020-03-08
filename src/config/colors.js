@@ -1,0 +1,13 @@
+export default {
+    PRIMARY: '#6F15B8',
+    PRIMARY_DARK: '#4d0c84',
+    PRIMARY_LIGHT: '#9C48BA',
+    SECONDARY: '#14D1AF',
+    SECONDARY_DARK: '#0E9980',
+    SECONDARY_LIGHT: '#BF71D5',
+    WHITE: '#FFF',
+    BLACK: '#000',
+    BLACK_LIGHT: '#575757',
+    GRAY_LIGHT: '#E3E3E3',
+    BUTTOM_UP: 'rgba(116, 85, 255, 0.4)',
+}
